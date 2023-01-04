@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oxygene:blocks/gray_down",
+    "up": "oxygene:blocks/oxygene_v1top_nair",
+    "north": "oxygene:blocks/oxygene_v1_nair",
+    "east": "oxygene:blocks/oxygene_v1_nair",
+    "south": "oxygene:blocks/oxygene_v1_nair",
+    "west": "oxygene:blocks/oxygene_v1_nair",
+    "particle": "oxygene:blocks/gray_down"
+  },
+  "render_type": "solid"
+}

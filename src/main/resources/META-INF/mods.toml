@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Apache License version 2.0"
+
+[[mods]]
+modId="oxygene"
+version="1.1.2"
+displayName="oxygene"
+credits="cbaie9 cb9#4009"
+displayURL="https://discord.gg/X7jftPfxB3"
+logoFile="logo.png"
+authors="cb9"
+description='''
+beta lib and a mod
+'''
+
+[[dependencies.oxygene]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

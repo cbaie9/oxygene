@@ -1,0 +1,9 @@
+{
+  "_fv": 34,
+  "_type": "command",
+  "definition": {
+    "commandName": "setspawn",
+    "permissionLevel": "4",
+    "argsxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"args_start\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"call_procedure\"><field name=\"procedure\">Setspawnprocessoverworld</field><next><block type=\"blockpos\"><field name=\"name\">pos</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">Setspawnpos</field></block></statement></block></next></block></next></block><block type=\"literal\" x=\"212\" y=\"273\"><field name=\"name\">overworld</field></block><block type=\"call_procedure\" x=\"726\" y=\"395\"><field name=\"procedure\">Connectsetspawngui</field></block><block type=\"literal\" x=\"68\" y=\"459\"><field name=\"name\">nether</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">Setspawnprocessnether</field></block></statement><next><block type=\"literal\"><field name=\"name\">end</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">Setspawnprocessend</field></block></statement></block></next></block></xml>"
+  }
+}

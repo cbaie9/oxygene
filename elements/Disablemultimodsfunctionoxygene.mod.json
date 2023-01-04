@@ -1,0 +1,12 @@
+{
+  "_fv": 34,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "Disable common feature",
+    "description": "some mods have and can malfunction because this mods is a lib too",
+    "category": "CHAT",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 0
+  }
+}

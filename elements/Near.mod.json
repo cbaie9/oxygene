@@ -1,0 +1,9 @@
+{
+  "_fv": 34,
+  "_type": "command",
+  "definition": {
+    "commandName": "near",
+    "permissionLevel": "No requirement",
+    "argsxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"args_start\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"number_min\"><field name=\"name\">name</field><field name=\"min\">0</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">Nearcommand</field></block></statement><next><block type=\"literal\"><field name=\"name\">result</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">NearscR</field></block></statement></block></next></block></next></block></xml>"
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 200,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 17,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "onSlotChanged": {
+            "name": "Ocodev1"
+          },
+          "name": "Slot #0",
+          "x": 180,
+          "y": 93
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Inventory",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Inventory",
+          "x": 131,
+          "y": 125
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "onSlotChanged": {
+            "name": "Ocodev1"
+          },
+          "name": "Slot #1",
+          "x": 179,
+          "y": 53
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Heat source",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Heat source",
+          "x": 237,
+          "y": 33
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "Items.LAVA_BUCKET"
+          },
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "onSlotChanged": {
+            "name": "Ocodev1"
+          },
+          "name": "Slot #2",
+          "x": 258,
+          "y": 52
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "oxygene_icon_gui.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Oxygenatiumprocessl0"
+          },
+          "name": "oxygene_icon_gui.png",
+          "x": 181,
+          "y": 75
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "oxygene_l1.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Oxygenatiumprocessl1"
+          },
+          "name": "oxygene_l1.png",
+          "x": 181,
+          "y": 75
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "oxygene_l2.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Oxygenatiumprocessl2"
+          },
+          "name": "oxygene_l2.png",
+          "x": 181,
+          "y": 75
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "oxygene_l3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Oxygenatiumprocessl3"
+          },
+          "name": "oxygene_l3.png",
+          "x": 181,
+          "y": 75
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "oxygene_l4.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Oxygenatiumprocessl4"
+          },
+          "name": "oxygene_l4.png",
+          "x": 181,
+          "y": 75
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "oxygene_l5.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Oxygenatiumprocessl5"
+          },
+          "name": "oxygene_l5.png",
+          "x": 181,
+          "y": 75
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "oxygene_l6.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Oxygenatiumprocessl6"
+          },
+          "name": "oxygene_l6.png",
+          "x": 181,
+          "y": 75
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "oxygene_l7.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Oxygenatiumprocessl7"
+          },
+          "name": "oxygene_l7.png",
+          "x": 181,
+          "y": 75
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "oxygene_l8.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Oxygenatiumprocessl8"
+          },
+          "name": "oxygene_l8.png",
+          "x": 181,
+          "y": 75
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "oxygene_l9.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Oxygenatiumprocessl9"
+          },
+          "name": "oxygene_l9.png",
+          "x": 181,
+          "y": 75
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "oxygene_l10.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Oxygenatiumprocessl10"
+          },
+          "name": "oxygene_l10.png",
+          "x": 181,
+          "y": 75
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "oxygene_l11.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Oxygenatiumprocessl11"
+          },
+          "name": "oxygene_l11.png",
+          "x": 181,
+          "y": 75
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "oxygene_l12.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Oxygenatiumprocessl12"
+          },
+          "name": "oxygene_l12.png",
+          "x": 181,
+          "y": 75
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "oxygene_l13.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Oxygenatiumprocessl13"
+          },
+          "name": "oxygene_l13.png",
+          "x": 181,
+          "y": 75
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 3,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "onSlotChanged": {
+            "name": "Ocodev1"
+          },
+          "name": "Slot #3",
+          "x": 258,
+          "y": 70
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "onSlotChanged": {
+            "name": "Ocodev1"
+          },
+          "name": "Slot #4",
+          "x": 258,
+          "y": 88
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Input",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Input",
+          "x": 230,
+          "y": 56
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "In use",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "In use",
+          "x": 226,
+          "y": 74
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Output",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Output",
+          "x": 225,
+          "y": 92
+        }
+      }
+    ],
+    "onTick": {
+      "name": "Ocodev1"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

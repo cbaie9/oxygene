@@ -1,0 +1,18 @@
+{
+  "gamerule.logsall": "Logs all",
+  "item.oxygene.saltium": "Saltium",
+  "item.oxygene.woddenplates": "Wodden plates",
+  "block.oxygene.oxygenatiumempty": "Empty Oxygenatium",
+  "itemGroup.taboxygenebasic": "Oxygene basic",
+  "gamerule.disablemultimodsfunctionoxygene.description": "some mods have and can malfunction because this mods is a lib too",
+  "block.oxygene.saltiumore": "Saltium ore",
+  "gamerule.disablemultimodsfunctionoxygene": "Disable common feature",
+  "item.oxygene.lavaresidueingot": "Lava residue",
+  "item.oxygene.picker": "Picker",
+  "item.oxygene.saltiumfragment": "Saltium fragment",
+  "gamerule.logsall.description": "Logs all the action player does ( may cause lag )",
+  "item.oxygene.burntbucket": "Burnt bucket",
+  "block.oxygene.registryblock": "Registry block",
+  "block.oxygene.oxygenatium": "Oxygenatium",
+  "block.oxygene.greenscreen": "Greenscreen"
+}

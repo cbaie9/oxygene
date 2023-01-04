@@ -1,0 +1,9 @@
+{
+  "_fv": 34,
+  "_type": "command",
+  "definition": {
+    "commandName": "sethome",
+    "permissionLevel": "No requirement",
+    "argsxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"args_start\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"string\"><field name=\"type\">word</field><field name=\"name\">home_name</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">Sethomeprocess</field></block></statement></block></next></block><block type=\"call_procedure\" x=\"387\" y=\"340\"><field name=\"procedure\"></field></block></xml>"
+  }
+}

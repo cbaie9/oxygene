@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "oxygene:blocks/green_screen",
+    "particle": "oxygene:blocks/green_screen"
+  },
+  "render_type": "solid"
+}
